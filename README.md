@@ -1,4 +1,4 @@
-# Business continuity and disaster recovery
+# Business1 continuity and disaster recovery
 
 Contoso Insurance, is a multi-national corporation, headquartered in Miami providing insurance solutions in North America, Europe, and Australia. Its products include accident and health insurance, life insurance, travel, home, and auto coverage. Contoso needs to automate their backup and recovery of their solutions, not just individual components.
 
